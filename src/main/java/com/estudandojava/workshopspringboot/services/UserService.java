@@ -11,7 +11,6 @@ import com.estudandojava.workshopspringboot.repositories.UserRepository;
 
 @Service
 public class UserService {
-	
 	@Autowired
 	private UserRepository repository;
 	
